@@ -188,6 +188,9 @@ const edvDocument = {
       type: 'array',
       items: [indexedEntry]
     },
+    stream: {
+      type: 'object',
+    },
     jwe
   }
 };
